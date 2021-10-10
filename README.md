@@ -3,7 +3,7 @@
 
 ## Usage
 1. Change the necessary fields in `metadata.txt`.
-2. Write as many chapters as you like. These are easier to manage if you have one file per chapter, eg. `01-introduction`, `02-uses`, etc.
+2. Write as many chapters as you like. These are easier to manage if you have one file per chapter, eg. `01-introduction.md`, `02-uses.md`, etc.
 3. Add your cover
 4. See [building](#building)
 
