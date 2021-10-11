@@ -9,5 +9,5 @@ description: dolor sit amet
 rights: Commercial
 language: en-UK
 stylesheet: epub.css
-cover-image: cover.jpg
+cover-image: cover.png
 ...
