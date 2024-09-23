@@ -17,7 +17,7 @@ assignees: ''
 <-- A clear and concise description of any alternatives you've considered. -->
 
 **Clarify the why**
-<-- What is the compelling reason behind this request?  Why should I spend time considering it?  Keep that explanation to no more than 50 words. -->
+<-- What is you compelling reason behind this request?  Why should I spend time considering it?  Keep that explanation to no more than 50 words. -->
 
 **Additional context**
 <-- Add any other context here.  Please don't make me chase after you for details but also do not be obtuse in your writing. -->
