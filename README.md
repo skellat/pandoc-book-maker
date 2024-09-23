@@ -1,12 +1,14 @@
 # Pandoc Book Maker
 Command modified from [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template)
+Command modified from [qasterr/pandoc-book-maker](https://github.com/qasterr/pandoc-book-maker)
 
 ## Usage
 1. Change the necessary fields in `metadata.txt`.
-2. Write as many chapters as you like in the folder `chapters`.
-These are easier to manage if you have one file per chapter, eg. `01-introduction.md`, `02-uses.md`, etc.
-3. Add your cover into `cover.png`
-4. See [building](#building)
+2. Write as many chapters as you like in the folder `chapters`.  These are easier to manage if you have one file per chapter, eg. `01-introduction.md`, `02-uses.md`, etc.
+3. Go to Google Fonts *and pick appropriate fonts*
+4. Adjust epub.css to reflect the fonts you chose
+5. Add your cover into `cover.png`
+6. See [building](#building)
 
 
 ## Building
