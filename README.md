@@ -3,7 +3,7 @@ Command modified from [johnpaulada/pandoc-markdown-book-template](https://github
 Command modified from [qasterr/pandoc-book-maker](https://github.com/qasterr/pandoc-book-maker)
 
 ## Usage
-1. Change the necessary fields in `metadata.txt`.
+1. Change the necessary fields in `metadata.txt` so that they reflect true and proper details.
 2. Write as many chapters as you like in the folder `chapters`.  These are easier to manage if you have one file per chapter, eg. `01-introduction.md`, `02-uses.md`, etc.
 3. Go to Google Fonts *and pick appropriate fonts*
 4. Adjust epub.css to reflect the fonts you chose
@@ -12,14 +12,6 @@ Command modified from [qasterr/pandoc-book-maker](https://github.com/qasterr/pan
 
 
 ## Building
-### Windows
-**Requires [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).**
-
-Enter:
-```cmd
-wsl
-```
-See [Linux](#linux)
 
 ### Linux
 (Replace `<make-action>` with whatever make command you wish to run)

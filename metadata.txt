@@ -1,13 +1,13 @@
 ---
 title:
 - type: main
-  text: Lorem Ipsum
+  text: The Fourth Story
 creator:
 - role: author
-  text: John Doe
+  text: Stephen Michael Kellat
 description: dolor sit amet
 rights: Commercial
-language: en-UK
+language: en-US
 stylesheet: epub.css
 cover-image: cover.png
 ...
